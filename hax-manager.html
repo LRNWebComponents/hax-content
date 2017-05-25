@@ -78,6 +78,8 @@
       _itemSelected: function(e) {
         let selectedComponent = e.detail.value;
         let node = document.createElement(selectedComponent);
+        node.showHax = true;
+        console.log(node);
         this.fire('hax-manager-component-selected', {
           value: selectedComponent,
           node: node
