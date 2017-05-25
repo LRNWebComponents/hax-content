@@ -28,7 +28,7 @@
     "lrndesign-avatar": "^0.0.2",
     "hax-behaviors": "^0.0.9",
     "lrnsys-behaviors": "^1.0.0",
-    "hax-editbar": "0.0.9",
+    "hax-editbar": "0.1.0",
     "lrndesign-blockquote": "^0.0.7",
     "hax-editable": "0.0.3"
   }
