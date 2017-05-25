@@ -14,7 +14,7 @@
     "lrndesign-avatar": "LRNWebcomponents/lrndesign-avatar#^0.0.2",
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.4",
     "lrndesign-abbreviation": "LRNWebcomponents/lrndesign-abbreviation#^0.0.1",
-    "hax-behaviors": "LRNWebcomponents/hax-behaviors#^0.0.6",
+    "hax-behaviors": "LRNWebComponents/hax-behaviors#^0.0.14",
     "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.7",
     "hax-manager": "LRNWebComponents/hax-content#^0.0.3"
   },
@@ -26,7 +26,7 @@
   },
   "resolutions": {
     "lrndesign-avatar": "^0.0.2",
-    "hax-behaviors": "^0.0.9",
+    "hax-behaviors": "^0.0.14",
     "lrnsys-behaviors": "^1.0.0",
     "hax-editbar": "0.1.0",
     "lrndesign-blockquote": "^0.0.7",
