@@ -2,7 +2,7 @@
   "name": "hax-manager",
   "main": "hax-manager.html",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.4.0",
+    "polymer": "Polymer/polymer#^2.0.1",
     "app-layout": "PolymerElements/app-layout#^0.10.7",
     "paper-tabs": "PolymerElements/paper-tabs#^1.8.0",
     "paper-dialog-scrollable": "PolymerElements/paper-dialog-scrollable#^1.1.5",
@@ -15,7 +15,8 @@
     "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer#^0.0.5",
     "lrndesign-abbreviation": "LRNWebcomponents/lrndesign-abbreviation#^0.0.1",
     "hax-behaviors": "LRNWebComponents/hax-behaviors#^0.0.14",
-    "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.14"
+    "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard#^0.0.14",
+    "the-grid": "vpusher/the-grid#^1.2.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
